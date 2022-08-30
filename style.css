@@ -192,3 +192,12 @@ font-family:'Montserrat', sans-serif ;
 .result span, .result sup{
 color:white;
 }
+
+@media only screen and (max-width:500px){
+
+
+    .bubbles span{
+        width: 30px;
+        height: 30px;
+    } 
+}
